@@ -1,3 +1,4 @@
 # Calculate-an-angle
 Calculate angles with this handy calculator
-select the angles, input the numbers, press the button, and your off!
+input the numbers, press the button, and your off!
+Please note: I have not gotten the math working yet, so this will not work.
