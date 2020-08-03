@@ -1,4 +1,3 @@
-//you can copy paste this into a chrome browser after using ctrl+shift+i, then going to the console and paste the code in. From there select the function, input the numbers(o=opposite, h=hypotenuse, a=adjecent), and run it
 //radian_ah calculates degrees using adjacent and hypotenuse lengths(applies inverse cosine)
 function theta_ah(a,h) {
  console.log((Math.acos(a/h))*180/Math.PI)
