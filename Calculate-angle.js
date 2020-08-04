@@ -25,7 +25,6 @@ function theta_oa(o,a) {
 function radian_oa(o,a) {
  console.log(Math.atan(o/a))
 }
-console.log(theta_oh(4,7.2111)
 
 function calculate() {
   var tah = theta_ah(input1,input3)
